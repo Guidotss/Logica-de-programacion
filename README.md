@@ -1,4 +1,4 @@
-# Ejercicios de logica de programacion 
+# Ejercicios: logica de programacion 
 
 ## lenguajes utilizados:
 -   `C++`
