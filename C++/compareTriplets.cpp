@@ -11,6 +11,8 @@ int main(){
 
     compareTriplets(a,b); 
 
+    return 0; 
+
 }
 vector<int> compareTriplets(vector<int> a, vector<int> b){
     int alicePoints = 0; 
